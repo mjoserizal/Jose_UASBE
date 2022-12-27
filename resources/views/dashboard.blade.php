@@ -168,7 +168,7 @@
                                                     </td>
                                                     <td>
                                                         <a class="btn btn-danger btn-block"
-                                                            href="{{ $URL }}/user62/{{ $item['id'] }}/delete">Detail</a>
+                                                            href="{{ $URL }}/user62/{{ $item['id'] }}/delete">Delete</a>
                                                     </td>
                                                 </tr>
                                             @endforeach
